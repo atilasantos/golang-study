@@ -226,3 +226,27 @@
 11/11/2021 - 19:27:58 - [OK] - Site - http://www.globo.com - available.
 11/11/2021 - 19:28:00 - [OK] - Site - http://www.twitter.com - available.
 11/11/2021 - 19:28:01 - [NOK] - Site - https://random-status-code.herokuapp.com - Not available
+12/11/2021 - 19:07:05 - [OK] - Site - http://www.google.com - available.
+12/11/2021 - 19:07:05 - [OK] - Site - http://www.alura.com.br - available.
+12/11/2021 - 19:07:05 - [OK] - Site - http://www.facebook.com - available.
+12/11/2021 - 19:07:06 - [OK] - Site - http://www.globo.com - available.
+12/11/2021 - 19:07:07 - [OK] - Site - http://www.twitter.com - available.
+12/11/2021 - 19:07:15 - [OK] - Site - https://random-status-code.herokuapp.com - available.
+12/11/2021 - 19:07:19 - [OK] - Site - http://www.google.com - available.
+12/11/2021 - 19:07:20 - [OK] - Site - http://www.alura.com.br - available.
+12/11/2021 - 19:07:20 - [OK] - Site - http://www.facebook.com - available.
+12/11/2021 - 19:07:20 - [OK] - Site - http://www.globo.com - available.
+12/11/2021 - 19:07:21 - [OK] - Site - http://www.twitter.com - available.
+12/11/2021 - 19:07:21 - [NOK] - Site - https://random-status-code.herokuapp.com - Not available
+12/11/2021 - 19:07:25 - [OK] - Site - http://www.google.com - available.
+12/11/2021 - 19:07:26 - [OK] - Site - http://www.alura.com.br - available.
+12/11/2021 - 19:07:26 - [OK] - Site - http://www.facebook.com - available.
+12/11/2021 - 19:07:56 - [OK] - Site - http://www.globo.com - available.
+12/11/2021 - 19:07:56 - [OK] - Site - http://www.twitter.com - available.
+12/11/2021 - 19:07:57 - [NOK] - Site - https://random-status-code.herokuapp.com - Not available
+12/11/2021 - 19:08:01 - [OK] - Site - http://www.google.com - available.
+12/11/2021 - 19:08:02 - [OK] - Site - http://www.alura.com.br - available.
+12/11/2021 - 19:08:02 - [OK] - Site - http://www.facebook.com - available.
+12/11/2021 - 19:08:02 - [OK] - Site - http://www.globo.com - available.
+12/11/2021 - 19:08:03 - [OK] - Site - http://www.twitter.com - available.
+12/11/2021 - 19:08:06 - [OK] - Site - https://random-status-code.herokuapp.com - available.
